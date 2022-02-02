@@ -15,6 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Site under <span className=" text-orange-600">construction</span>
         </h1>
+        <h2>Comming soon</h2>
       </main>
     </div>
   );
