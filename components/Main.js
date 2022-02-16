@@ -26,7 +26,7 @@ function Main() {
         <Gmail />
         <Facebook />
       </div>
-      <Link href="https://drive.google.com/file/d/1pdzBBoE6lbtMIIMYEkliujKKstXqEWcn/view?usp=sharing">
+      <Link href="https://drive.google.com/file/d/100sjGx5-hAn17zXhijR9y9U7UZU3toNZ/view?usp=sharing">
         <button className="text-white bg-[#CC4B2C] font-medium px-7 py-4 rounded-md mt-10 hover:bg-[#DF502E]">
           Download Resume
         </button>
