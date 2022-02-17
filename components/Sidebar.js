@@ -18,13 +18,13 @@ function Sidebar() {
           href="#"
           className=" text-white text-left ml-24 text-2xl font-medium ease-out duration-300 hover:translate-x-6"
         >
-          Demo Projects
+          <Link href={"/demo"}>Demo Projects</Link>
         </button>
         <button
           href="#"
           className=" text-white text-left ml-24 text-2xl font-medium ease-out duration-300 hover:translate-x-6"
         >
-          Experience
+          <Link href={"/experience"}>Experience</Link>
         </button>
       </div>
     </div>
