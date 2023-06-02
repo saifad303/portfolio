@@ -12,7 +12,7 @@ function Sidebar() {
           href="#"
           className=" text-white text-left ml-24 text-2xl font-medium ease-out duration-300 hover:translate-x-6"
         >
-          <Link href={`/skills`}>Skills</Link>
+          <Link href={`/skills`}>Skill</Link>
         </button>
         <button
           href="#"
